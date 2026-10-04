@@ -1,5 +1,5 @@
 # Lab 3 — Image Manipulations using OpenCV
-**Course:** ARTI 404 – Image Processing
+**Course:** ARTI 403 – Image Processing
 
 ## Overview
 This lab applies geometric and intensity transformations to a digital image using
